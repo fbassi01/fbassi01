@@ -1,35 +1,30 @@
 # ¡Hola! Soy Franco Bassi 👋
 
-### 🚀 Estudiante de Licenciatura en Sistemas | UNLP
-Soy un apasionado de la tecnología en formación, actualmente cursando el primer año en la **Facultad de Informática de la Universidad Nacional de La Plata**.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,vscode,linux" />
+</p>
+
+### 🚀 Sobre mí
+Soy estudiante de **Licenciatura en Sistemas en la UNLP** (1er año). Me apasiona la resolución de problemas y estoy construyendo mi base técnica en algoritmos y desarrollo web.
+
+* 📚 **Cursando:** CADP, EPA e Ingreso (Facultad de Informática).
+* 🛠️ **Enfoque actual:** Lógica de programación con Pascal/C y maquetación web.
+* 🎯 **Meta:** Convertirme en Desarrollador Fullstack.
 
 ---
 
-### 📚 Mi Camino en Sistemas
-* **Formación Actual:** 1er Año - Lic. en Sistemas (UNLP).
-* **Aprendiendo:** Pascal / C (materias de la facultad) y desarrollo web.
-
-### 🛠️ Tecnologías y Herramientas
-* **Lenguajes:** HTML5, CSS3, JavaScript, Pascal.
-* **Herramientas:** Git, GitHub, VS Code.
-
-### 🎮 Intereses & Proyectos
-* **Gaming:** Análisis de mecánicas en *Stalcraft: X* y *League of Legends*.
-* **Comunidad:** Participación en foros de la Facultad de Informática.
+### 📊 Mi Actividad en GitHub
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fbassi01&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbassi01&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ### 📫 Contacto
-* **Email:** francoabaasi52@gmail.com
-* **LinkedIn:** [Franco Bassi](https://www.linkedin.com/in/fbassi01) 
+<p align="left">
+<a href="mailto:francoabaasi52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
----
-
-### 📊 Actividad en GitHub
-
-![Estadísticas de Franco](https://github-readme-stats.vercel.app/api?username=fbassi01&show_icons=true&theme=dark&hide_border=false)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fbassi01&layout=compact&theme=dark&hide_border=false)
-
----
 *"El código es como el humor: cuando tienes que explicarlo, es malo."*
