@@ -16,4 +16,4 @@
 
 ## 📂 Mis Estudios
 
-[![UNLP-Sistemas](
+[UNLP-Sistemas]
