@@ -5,25 +5,23 @@
 </p>
 
 ### 🚀 Sobre mí
-Soy estudiante de **Licenciatura en Sistemas en la UNLP** (1er año). Me apasiona la resolución de problemas y estoy construyendo mi base técnica en algoritmos y desarrollo web.
+Soy estudiante de **Licenciatura en Sistemas en la UNLP** (1er año). Me apasiona la resolución de problemas y estoy construyendo mi base técnica.
 
-* 📚 **Cursando:** CADP, EPA e Ingreso (Facultad de Informática).
-* 🛠️ **Enfoque actual:** Lógica de programación con Pascal/C y maquetación web.
-* 🎯 **Meta:** Convertirme en Desarrollador Fullstack.
-
----
-
-### 📊 Actividad en GitHub
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fbassi01&show_icons=true&theme=radical&hide_border=true" />
-</p>
+* 📚 **Cursando:** Facultad de Informática (UNLP).
+* 🛠️ **Enfoque:** Lógica de programación y desarrollo web.
+* 🎯 **Meta:** Fullstack Developer.
 
 ---
 
-### 📫 Contacto
+### 📫 Contacto Directo
+* 📧 **Email:** [francoabaasi52@gmail.com](mailto:francoabaasi52@gmail.com)
+* 💼 **LinkedIn:** [Franco Bassi](https://www.linkedin.com/in/fbassi01)
+
+---
+
+### 📊 Actividad
 <p align="left">
-<a href="mailto:francoabaasi52@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/fbassi01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fbassi01&show_icons=true&theme=dark&hide_border=true" />
 </p>
 
 *"El código es como el humor: cuando tienes que explicarlo, es malo."*
