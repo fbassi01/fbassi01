@@ -32,8 +32,3 @@
 
   <i>"El código es como el humor: cuando tienes que explicarlo, es malo."</i>
 </p>
-## 📊 Mis Estadísticas de GitHub
-
-![Stats de Franco](https://github-readme-stats.vercel.app/api?username=fbassi01&show_icons=true&theme=radical&hide_border=true&align=center)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=fbassi01&layout=compact&theme=radical&hide_border=true&align=center)
