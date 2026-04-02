@@ -25,7 +25,7 @@
 ## 📫 Conectemos
 
 * 📧 **Email:** [francoabaasi52@gmail.com](mailto:francoabaasi52@gmail.com)
-* 💼 **LinkedIn:** [Franco Bassi](https://www.linkedin.com/in/fbassi01)
+* 💼 **LinkedIn:** [Franco Bassi](https://www.linkedin.com/in/francobassiit/?locale=en)
 
 ---
 
