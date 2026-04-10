@@ -45,7 +45,20 @@ Mi repositorio principal de estudio donde documento prácticas, resoluciones de 
 <p align="center">
   <i>"El código es como el humor: cuando tienes que explicarlo, es malo."</i>
 </p>
-### 🚀 Proyectos Destacados
-* **[VetLP](https://github.com/fbassi01/VetLP)**: Buscador de veterinarias y guardias en La Plata.
-    * *Tecnologías:* JavaScript, HTML, CSS.
-    * *Estado:* En vivo en [vetlp.netlify.app](https://vetlp.netlify.app/)
+---
+
+## 🚀 Proyectos Independientes
+
+En paralelo a mi formación académica, desarrollo soluciones que buscan resolver problemas cotidianos mediante tecnología.
+
+### [VetLP - Buscador de Veterinarias La Plata](https://github.com/fbassi01/VetLP)
+> **Estado:** 🟢 Desplegado y Funcional
+
+| Aspecto | Detalle |
+| :--- | :--- |
+| **💡 Objetivo** | Centralizar guardias y servicios de urgencia animal en tiempo real. |
+| **🛠️ Tecnologías** | JavaScript (ES6+), HTML5 Semántico, CSS3 (Responsive Design). |
+| **⚙️ Funcionalidad** | Filtrado dinámico de veterinarias, sistema de favoritos y guía de primeros auxilios. |
+| **🔗 Demo** | [vetlp.netlify.app](https://vetlp.netlify.app/) |
+
+---
