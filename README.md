@@ -43,7 +43,7 @@ Mi repositorio principal de estudio donde documento prácticas, resoluciones de 
 <p align="center">
   <i>"El código es como el humor: cuando tienes que explicarlo, es malo."</i>
 </p>
----
+
 
 ## 🚀 Proyectos Independientes
 
