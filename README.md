@@ -45,3 +45,7 @@ Mi repositorio principal de estudio donde documento prácticas, resoluciones de 
 <p align="center">
   <i>"El código es como el humor: cuando tienes que explicarlo, es malo."</i>
 </p>
+### 🚀 Proyectos Destacados
+* **[VetLP](https://github.com/fbassi01/VetLP)**: Buscador de veterinarias y guardias en La Plata.
+    * *Tecnologías:* JavaScript, HTML, CSS.
+    * *Estado:* En vivo en [vetlp.netlify.app](https://vetlp.netlify.app/)
