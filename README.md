@@ -45,7 +45,7 @@ Mi repositorio principal de estudio donde documento prácticas, resoluciones de 
 </p>
 
 ### 📚 Mis Estudios
-* [**Matemática I**](https://github.com/fbassi01/Matematica-I): Apuntes de conjuntos, lógica y demostraciones con scripts en Python. ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+* [**Matemática I**](https://github.com/fbassi01/Matematicas-I): Apuntes de conjuntos, lógica y demostraciones con scripts en Python. ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ## 🚀 Proyectos Independientes
 
