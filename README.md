@@ -44,6 +44,8 @@ Mi repositorio principal de estudio donde documento prácticas, resoluciones de 
   <i>"El código es como el humor: cuando tienes que explicarlo, es malo."</i>
 </p>
 
+### 📚 Mis Estudios
+* [**Matemática I**](https://github.com/fbassi01/Matematica-I): Apuntes de conjuntos, lógica y demostraciones con scripts en Python. ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ## 🚀 Proyectos Independientes
 
