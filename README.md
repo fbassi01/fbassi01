@@ -28,6 +28,9 @@ Mi repositorio principal de estudio donde documento prácticas, resoluciones de 
   * *Contenido: Ejercicios de CADP, lógica de OC y fundamentos matemáticos.*
 
 ---
+## 🎓 Educación & Logros
+
+* **Matemática I**: Parcialito aprobado (Funciones, Conjuntos y Método Directo) — *11 de abril de 2026*
 
 ### 📫 Conectemos
 
